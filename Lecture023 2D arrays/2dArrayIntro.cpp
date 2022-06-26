@@ -1,4 +1,5 @@
 #include<iostream> 
+#include <bits/stdc++.h>
 using namespace std; 
 
 bool isPresent(int arr[][3], int target, int row, int col) {
